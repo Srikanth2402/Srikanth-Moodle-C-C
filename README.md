@@ -1,2 +1,2 @@
-# Srikanth-Moodle-C-C
+# Srikanth-Moodle-C
 Srikanth/Moodle
